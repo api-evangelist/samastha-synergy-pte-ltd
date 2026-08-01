@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: djoin.id
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct 11 18:03:42 2026 GMT
+  hsts: false
+domains:
+- domain: djoin.id
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: none
