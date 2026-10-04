@@ -1,5 +1,5 @@
 aid: samastha-synergy-pte-ltd
-name: Samastha Synergy Pte. Ltd.
+name: Djoin
 description: >-
   Samastha Synergy Pte. Ltd. operates Djoin (djoin.id), positioning itself as a
   "digital partner for sustainable scale" that helps financial institutions and
@@ -47,7 +47,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Indonesia
 - Cooperatives
 - Financial Institutions
@@ -60,6 +60,7 @@ tags_raw:
 - Cooperatives
 - Financial Institutions
 - Digital Transformation
+- Financial-Services
 image: https://djoin.id/android-chrome-512x512.png
 apis: []
 maintainers:
@@ -77,3 +78,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Samastha Synergy Pte. Ltd.
